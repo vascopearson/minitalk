@@ -12,13 +12,13 @@ For detailed information, refer to the [**subject of this project**](https://git
 
 ### Requirements
 
-The library is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
+The project is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
 
 ### Instructions
 
-**1. Compiling the library**
+**1. Compiling**
 
-To compile the library, run:
+To compile, run:
 
 ```shell
 $ cd path/to/minitalk && make all
