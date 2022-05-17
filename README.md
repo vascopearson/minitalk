@@ -26,4 +26,4 @@ $ cd path/to/minitalk && make all
 
 ## 📚 Tutorial for the project
 
-See [**this explanation**](https://github.com/mlanca-c/Minitalk/wiki) to help you with this project.
+See [**this explanation**](https://github.com/mlanca-c/Minitalk/wiki) and [**this playlist**](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) to help you with this project.
