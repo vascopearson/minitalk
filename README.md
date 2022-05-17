@@ -6,7 +6,7 @@
 using UNIX signals.<br/>
 > This is Version 2 of this project<br/>
 
-For detailed information, refer to the [**subject of this project**](https://github.com/vascopearson/Libft/blob/master/libft_subject.pdf).
+For detailed information, refer to the [**subject of this project**](https://github.com/vascopearson/minitalk/blob/master/minitalk_subject.pdf).
 
 ## 🛠️ Usage
 
